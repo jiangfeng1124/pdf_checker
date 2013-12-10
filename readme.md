@@ -17,5 +17,6 @@ Usages
     pdf_checker.exe doc_filename|doc_dirname
 
     [Linux]:
+    chmod +x pdf_checker
     ./pdf_checker doc_filename|doc_dirname
 
